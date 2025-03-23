@@ -1,6 +1,6 @@
 #  PHARMACY MANAGEMENT SYSTEM
 
- **OBJECTIVE**..
+ **OBJECTIVE**
  
  Pharmacy Management System is a SQL-based project designed to efficiently manage pharmacy operations, including inventory, sales, purchases, suppliers, customers, and user role.
 
@@ -32,7 +32,7 @@ Sales – Stores sales transactions.
 
 SaleDetails – Stores details of each sale (medicine, quantity, price).
 
-   **Key Functionalities** :
+   **Key Functionalities** 
 
  User Authentication & Role Management – Users log in with credentials, and roles (e.g., admin, pharmacist) define access control.
  
@@ -44,7 +44,7 @@ SaleDetails – Stores details of each sale (medicine, quantity, price).
    
    Reporting & Analytics – Generates reports for stock levels, sales, and purchases.
    
- **Stored Procedures** :
+ **Stored Procedures** 
  
    Adding new medicines, categories, suppliers, and customers 
    
