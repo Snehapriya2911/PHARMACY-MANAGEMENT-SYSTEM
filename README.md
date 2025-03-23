@@ -1,8 +1,10 @@
-Pharmacy Management System is a SQL-based project designed to efficiently manage pharmacy operations, including inventory, sales, purchases, suppliers, customers, and user roles. 
+ PHARMACY MANAGEMENT SYSTEM
+ 
+ Pharmacy Management System is a SQL-based project designed to efficiently manage pharmacy operations, including inventory, sales, purchases, suppliers, customers, and user roles. 
 
  Database Schema Overview
  
-    MY database consists of multiple tables handling different aspects of pharmacy management:
+    MY database consists of multiple tables handling different aspects of pharmacy management
 
   Users Management
 PharmacyUsers – Stores user details such as ID, name, email, password, and role.
@@ -36,6 +38,7 @@ Your system is likely handling the following:
    Reporting & Analytics – Generates reports for stock levels, sales, and purchases.
    
  Stored Procedures :
+ 
    Adding new medicines, categories, suppliers, and customers 
    
   Processing sales and purchases efficiently
