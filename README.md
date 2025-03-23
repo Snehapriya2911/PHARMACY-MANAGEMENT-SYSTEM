@@ -10,7 +10,7 @@
  
 **Database Schema Overview**
 
- **.** Users Management
+  Users Management
 PharmacyUsers – Stores user details such as ID, name, email, password, and role.
 
    Inventory & Product Management
