@@ -29,9 +29,13 @@ SaleDetails – Stores details of each sale (medicine, quantity, price).
    Key Functionalities :
 
  User Authentication & Role Management – Users log in with credentials, and roles (e.g., admin, pharmacist) define access control.
+ 
    Inventory Management – Tracks medicine stock, expiry dates, and low-stock alerts.
+   
    Supplier & Purchase Management – Maintains supplier details and tracks purchases.
+   
    Sales & Customer Management – Handles sales transactions and customer details.
+   
    Reporting & Analytics – Generates reports for stock levels, sales, and purchases.
    
  Stored Procedures :
